@@ -35,14 +35,17 @@ aside {
 
 h1 {
 font-family: 'Stint Ultra Expanded', cursive;
+font-size: 50px;
 }
 
 h2 {
 font-family: 'Stint Ultra Expanded', cursive;
+font-size: 35px;
 }
 
 h3 {
-
+font-family:  'Stint Ultra Expanded', cursive;
+font-size: 25px
 }
 
 h4 {
@@ -59,6 +62,8 @@ h6 {
 
 p {
 font-family: 'Slabo 27px', serif;
+font-size: 20px;
+margin: 20px;
 }
 
 blockquote {
@@ -104,11 +109,11 @@ img  {
 /*** link styles ***/
 
 a:link {
-
+color: #FFFFF0
 }
 
 a:visited {
-
+color: #FFFFF0
 }
 
 a:hover {
